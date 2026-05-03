@@ -1,2 +1,1 @@
-# adriana-resume
-This repository contains my professional resume highlighting my experience, technical skills, certifications, and career interests in cybersecurity, IT support, and data analytics.
+This repository contains my professional resume outlining my experience in administrative and operational roles, along with my technical training and certifications in cybersecurity, networking, and IT support. It highlights my transition into entry-level cybersecurity and IT support roles.
